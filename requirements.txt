@@ -1,0 +1,2 @@
+icecream >= 2.1
+lark >= 1.1
